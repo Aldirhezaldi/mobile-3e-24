@@ -1,4 +1,4 @@
-# Pemrograman-Mobile-Semester-5
+# mobile-3E-24
 Tugas Pemrograman Mobile
 
 Rhezaldi Irnantyo Irawan
