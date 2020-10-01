@@ -14,7 +14,7 @@
 |--|--|
 | NIM | **1841720164** |
 | Nama Lengkap | **Rhezaldi Irnantyo Irawan** |
-| Kelas | TI-3D/3E |
+| Kelas | TI-3E |
 
 
 ## Struktur Folder
