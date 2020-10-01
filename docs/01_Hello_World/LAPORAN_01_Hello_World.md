@@ -16,7 +16,7 @@ Jawab :
 
 - Pertama, akan muncul halaman seperti pada gambar di bawah   ini. Klik Next untuk melanjutkan ke proses instalasi.
 
-![Screenshot](D:/FILE KULIAH/Semester 5/Pemrograman Mobile/mobile-3e-24/docs/01_Hello_World/img/install(1).jpg)
+![Screenshot](img/install(1).jpg)
 
 - Kemudian pilih komponen tambahan untuk install Android Studio. AVD (Android Virtual Device)
 
