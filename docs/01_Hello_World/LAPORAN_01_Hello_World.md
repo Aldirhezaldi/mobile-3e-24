@@ -96,4 +96,8 @@ tombol New Hardware Profile atau Import Hardware Profiles Lalu Next
 
 - Hasilnya pada smartphone
 
+<<<<<<< HEAD
 ![Screenshot](img/install(20).PNG)
+=======
+![Screenshot](img/install(20).PNG)
+>>>>>>> 377dd38e05121f982cb3227bf6b26e54473367f3
